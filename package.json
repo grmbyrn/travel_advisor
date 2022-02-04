@@ -1,6 +1,7 @@
 {
   "name": "travel_advisor",
   "version": "0.1.0",
+  "homepage": "https://grmbyrn.github.io/travel_advisor/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
